@@ -129,7 +129,7 @@
         <!-- Test libs -->
         <junit_version>4.10</junit_version>
         <easymock_version>3.0</easymock_version>
-        <mockito_version>1.8.4</mockito_version>
+        <mockito_version>1.8.5</mockito_version>
         <jmockit_version>0.999.8</jmockit_version>
 
         <skip_maven_deploy>false</skip_maven_deploy>
