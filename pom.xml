@@ -102,6 +102,7 @@
     -->
 
     <properties>
+
         <!-- Common libs -->
         <spring_version>2.5.6.SEC03</spring_version>
         <javassist_version>3.15.0-GA</javassist_version>
